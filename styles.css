@@ -9,14 +9,15 @@
 .top-nav-bar .top-secondary-nav a {
     text-decoration: none;
  }
+ 
+ .footer ul li a:hover{
+    border-bottom: 1px solid black;
+
+ } 
  .footer ul li{
     list-style-type: none;
-
  } 
  .footer ul li a{
 text-decoration: none;
 color: grey;
- }
- .grey{
-    color: grey;
  }
